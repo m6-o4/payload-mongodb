@@ -1,3 +1,15 @@
+# [2.2.0](https://github.com/m6-o4/payload-mongodb/compare/v2.1.0...v2.2.0) (2026-11-18)
+
+
+### Bug Fixes
+
+* **compose:** correct mongodb image name typo ([dbdbab9](https://github.com/m6-o4/payload-mongodb/commit/dbdbab9370a62d554438445005f8979b155d0efe))
+
+
+### Features
+
+* **ui:** default web layout to the system color scheme ([2b91476](https://github.com/m6-o4/payload-mongodb/commit/2b9147695b07f54590f467a265c2e9eb3416de4e))
+
 # [2.1.0](https://github.com/m6-o4/payload-template/compare/v2.0.1...v2.1.0) (2026-08-10)
 
 ### Features
