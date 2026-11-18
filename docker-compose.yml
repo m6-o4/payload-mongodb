@@ -1,6 +1,6 @@
 services:
   payload-mongodb:
-    image: ghcr.io/m6-o4/ppayload-mongodb:latest
+    image: ghcr.io/m6-o4/payload-mongodb:latest
     container_name: payload-mongodb
     restart: unless-stopped
     networks:
